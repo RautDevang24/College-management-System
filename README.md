@@ -127,9 +127,19 @@ String password = "your_password";
 ## 📸 Screens (Optional – You can add later)
 
 * Welcome Page
+  <img width="940" height="591" alt="image" src="https://github.com/user-attachments/assets/d64bb642-8258-48e0-8573-5e1c9c716386" />
+
 * Login Page
+<img width="940" height="635" alt="image" src="https://github.com/user-attachments/assets/f9010f0e-7370-402c-aec9-9b0bdf49fd93" />
+
 * Admin Dashboard
+<img width="940" height="629" alt="image" src="https://github.com/user-attachments/assets/71c9e579-d249-4208-8413-ae37e325a9fb" />
+<img width="940" height="632" alt="image" src="https://github.com/user-attachments/assets/85ef20d9-05b8-4b44-8b1f-c4109b91a4d1" />
+<img width="940" height="622" alt="image" src="https://github.com/user-attachments/assets/1e466e40-d5ad-4b25-b4f3-f27f1b96b647" />
+
 * Search Page
+  <img width="940" height="601" alt="image" src="https://github.com/user-attachments/assets/4c3a7c28-2d36-40c8-891e-5d73d596ee65" />
+
 
 ---
 
