@@ -127,6 +127,7 @@ String password = "your_password";
 ## 📸 Screens 
 
 * Welcome Page
+  
   <img width="640" height="391" alt="image" src="https://github.com/user-attachments/assets/d64bb642-8258-48e0-8573-5e1c9c716386" />
 
 * Login Page
@@ -138,6 +139,7 @@ String password = "your_password";
 <img width="640" height="322" alt="image" src="https://github.com/user-attachments/assets/1e466e40-d5ad-4b25-b4f3-f27f1b96b647" />
 
 * Search Page
+  
   <img width="640" height="301" alt="image" src="https://github.com/user-attachments/assets/4c3a7c28-2d36-40c8-891e-5d73d596ee65" />
 
 
